@@ -50,7 +50,7 @@ Se ha realizado un desarrollo basado en el enfoque ATDD, donde se han escrito to
 reglas de negocio y criterios de aceptacion.
 Dichas pruebas se lanzan de manera automática.
 
-Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
+Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/jcallejo/bank/BankBusinessRuleTests.java
 
 ## Más informacion
 
